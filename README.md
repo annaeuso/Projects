@@ -16,7 +16,7 @@
 *Who is John Galt?*
 **Who is _John Galt_?**
 
-**Ingredients for cherry pie**
+**Ingredients of cherry pie**
 + flour
 + eggs
 + sugar
