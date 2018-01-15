@@ -6,7 +6,7 @@
 +  Thesis
 +  The 1st Argument
 +  The 2nd Argument
-3. Summary *(brief!!)*
+3. Summary *(briefly!!)*
 ## projects
 
 [say hello to my kitty](http://zhenskoe-mnenie.ru/upload/information_system_14/2/3/5/item_23528/information_items_23528.jpg)
